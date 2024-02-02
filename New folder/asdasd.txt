@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Roberto Paler</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <script src="https://kit.fontawesome.com/86f88e86bb.js"></script>
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body class="bg-[#121212] text-neutral-50 font-['Poppins']">
+    <nav class="bg-[#121212]/50 backdrop-blur-md fixed w-full flex justify-center py-4 sm:py-8">
+        <div class="flex justify-between max-w-5xl w-full items-center px-4"> 
+            <div class="flex items-center">
+                <a href="adasd.com"class="mr-3"> <img class="size-[37px] sm:size-[40px] md:size-[45px] lg:size-[50px] rounded-full" src="james-person-1.jpg" alt="RobertoPaler"></a>
+                <p class="text-slate-50 text-sm sm:text-lg tracking-[0.3em]">ROBERTO PALER</p>
+            </div>
+            <a href="asdasd.com" class="text-2xl"><i class="fa-solid fa-bars"></i></a>
+        </div> 
+    </nav>
+    <main class="flex flex-col items-center">
+        <section class="max-w-5xl w-full text-center h-screen flex items-center justify-center">
+           <div class="space-y-2">
+                <h1 class="text-2xl hidden sm:block text-neutral-50/60">I'M FROM MANILA</h1>
+                <h2 class="text-[33px] sm:text-[40px] md:text-[45px] lg:text-[55px] font-bold tracking-[0.2em]">A WEB DESIGNER</h2>
+           </div> 
+        </section>
+
+        <section class="max-w-5xl w-full md:h-[625px] flex flex-col md:flex-row items-center justify-center space-y-24 md:space-x-24 md:space-y-0 md:mr-8">
+            <div class="bg-cover bg-center bg-no-repeat h-80 block w-full md:h-full size-[300px] mr-8 ml-8" style="background-image: url('/author-1.jpg');"></div>
+                <div class="flex flex-col items-center text-pretty"> 
+                    <div class="p-12">
+                        <h1 class="text-[2rem] mb-12 leading-[3rem]">Hi! I'm Roberto <md:br></md:br>Paler</h1>
+                        <p class="text-lg leading-8 mb-8 text-[#8c8c8c]">Far far away, behind the word mountains, far from the countries  Vokalia and Consonantia,there live the  blind texts. Seperated they live in.</p>
+                        <a class="text-[#2F89FC] text-lg" href="http://127.0.0.1:5501/index.html">Check out my resume</a>
+                        <ul class="flex space-x-4 mt-6 mb-4 text-[24px] text-[#5DA3FD]">
+                            <li ><a href="https://twitter.com/?lang=en" target="_blank" rel="noopener noreferrer" ><i class="fa-brands fa-twitter rounded-full p-4 bg-neutral-50/5  hover:text-slate-50 hover:animate-pulse"></i></a>
+                            <li><a href="https://www.facebook.com" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-facebook rounded-full p-4 bg-neutral-50/5 hover:text-slate-50 hover:animate-pulse"></i></a></li>
+                            <li><a href="https://www.instagram.com/" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-instagram rounded-full p-4 bg-neutral-50/5 hover:text-slate-50 hover:animate-pulse"></i></a></li>   
+                        </ul>
+                    </div>
+            </div>
+        </section>
+        <section class="max-w-5xl w-full text-center h-screen flex flex-col items-center py-[126px]">
+            <div class="flex items-center">
+                <div">
+                    <h1 class="text-lg text-neutral-50/60 tracking-[0.28em]">WHAT I DO</h1>
+                    <p class="text-4xl mb-12 pb-[48px] font-bold">My services</p>
+                </div>   
+            </div>
+            
+            <div class="flex flex-col md:flex-row">
+                <div class="flex flex-col">
+                    <div class="flex items-center justify-center text-[44px] text-blue-500 mb-[16px]">
+                        <i class="fa-solid fa-layer-group"></i>
+                    </div>
+                    <div class="mx-10 my-10">
+                        <div class="flex flex-col px-4 text-[22px] items-center justify-center pb-6">
+                            <h1 class="mb-[8px]">UI/UX Design</h1>
+                            <h1 class="mb-[8px]">Mobile App Design</h1>
+                            <h1 class="mb-[8px]">Responsive Design</h1>
+                        </div>
+                    </div>
+                </div>
+                
+                
+                <div class="flex flex-col md:flex-row">
+                    <div class="flex flex-col">
+                        <div class="flex items-center justify-center text-[44px] text-blue-500 mb-[16px]">
+                            <i class="fa-solid fa-gears"></i>
+                        </div>
+                        <div class="mx-10 my-10">
+                            <div class="flex flex-col px-4 text-[22px] items-center justify-center pb-6">
+                                <h1 class="mb-[8px]">UI/UX Design</h1>
+                                <h1 class="mb-[8px]">Mobile App Design</h1>
+                                <h1 class="mb-[8px]">Responsive Design</h1>
+                            </div>
+                        </div>
+                    </div> 
+                </div>
+                    
+                    <div class="flex flex-col md:flex-row">
+                            <div class="flex flex-col">
+                                <div class="flex items-center justify-center text-[44px] text-blue-500 mb-[16px]">
+                                        <i class="fa-solid fa-code"></i>
+                                </div>
+                                <div class="mx-10 my-10">
+                                    <div class="flex flex-col px-4 text-[22px] items-center justify-center pb-6">
+                                        <h1 class="mb-[8px]">UI/UX Design</h1>
+                                        <h1 class="mb-[8px]">Mobile App Design</h1>
+                                        <h1 class="mb-[8px]">Responsive Design</h1>
+                                    </div>
+                                </div> 
+                            </div>
+                    </div>
+
+            </div>
+        </section>
+        <section class="max-w-5xl w-full md:h-[625px] flex flex-col md:flex-row items-center justify-center space-y-24 md:space-x-24 md:space-y-0 md:mr-8">
+            <div class="bg-cover bg-center bg-no-repeat h-80 block w-full md:h-full size-[300px] mr-8 ml-8" style="background-image: url('/author-1.jpg');">
+            </div>
+                <div class="flex flex-col items-center text-pretty"> 
+                    <div class="p-12">
+                        <h1 class="text-[13px] mb-[8px] leading-[3rem] text-[#8c8c8c] tracking-[0.08em]">ILLUSTRATION</h1>
+                        <h1 class="text-[30px] mb-[30px] leading-[3rem]">Even the all-powerfull <md:br></md:br>Pointing has no control</h1>
+                        <p class="text-lg leading-8 mb-8 text-[#8c8c8c] mb-[16px]">Even the all-powerfull Pointing has  no control about the blind texts it is an almost unorthographic life One day however a small line of blind text.</p>
+                        <a class="text-[#2F89FC] text-lg" href="http://127.0.0.1:5501/index.html">View my Project</a>
+                    </div>
+                </div>
+        </section>
+       
+        <section class="max-w-5xl w-full md:h-[625px] flex flex-col md:flex-row items-center justify-center space-y-24 md:space-x-24 md:space-y-0 md:mr-8">
+            <div class="flex flex-col items-center text-pretty"> 
+                <div class="p-12">
+                    
+                    <h1 class="text-[13px] mb-[8px] leading-[3rem] text-[#8c8c8c] tracking-[0.08em]">APPLICATION</h1>
+                    <p class="text-lg leading-8 mb-8 text-[#8c8c8c] mb-[16px]">Even the all-powerfull Pointing has  no control about the blind texts it is an almost unorthographic life One day however a small line of blind text.</p>
+                    <a class="text-[#2F89FC] text-lg" href="http://127.0.0.1:5501/index.html">View my Project</a>
+                </div>
+        </div>
+            <div class="bg-cover bg-center bg-no-repeat h-80 block w-full md:h-full size-[300px] mr-8 ml-8" style="background-image: url('/author-1.jpg');">
+            </div>
+                
+        </section>
+
+        <section class="max-w-5xl w-full md:h-[625px] flex flex-col md:flex-row items-center justify-center space-y-24 md:space-x-24 md:space-y-0 md:mr-8">
+            <div class="bg-cover bg-center bg-no-repeat h-80 block w-full md:h-full size-[300px] mr-8 ml-8" style="background-image: url('/author-1.jpg');">
+            </div>
+                <div class="flex flex-col items-center text-pretty"> 
+                    <div class="p-12">
+                        <h1 class="text-[13px] mb-[8px] leading-[3rem] text-[#8c8c8c] tracking-[0.08em]">ILLUSTRATION</h1>
+                        <h1 class="text-[30px] mb-[30px] leading-[3rem]">Even the all-powerfull <md:br></md:br>Pointing has no control</h1>
+                        <p class="text-lg leading-8 mb-8 text-[#8c8c8c] mb-[16px]">Even the all-powerfull Pointing has  no control about the blind texts it is an almost unorthographic life One day however a small line of blind text.</p>
+                        <a class="text-[#2F89FC] text-lg" href="http://127.0.0.1:5501/index.html">View my Project</a>
+                    </div>
+                </div>
+        </section>
+       
+        <section class="max-w-5xl w-full md:h-[625px] flex flex-col md:flex-row items-center justify-center space-y-24 md:space-x-24 md:space-y-0 md:mr-8">
+            <div class="flex flex-col items-center text-pretty"> 
+                <div class="p-12">
+                    
+                    <h1 class="text-[13px] mb-[8px] leading-[3rem] text-[#8c8c8c] tracking-[0.08em]">APPLICATION</h1>
+                    <p class="text-lg leading-8 mb-8 text-[#8c8c8c] mb-[16px]">Even the all-powerfull Pointing has  no control about the blind texts it is an almost unorthographic life One day however a small line of blind text.</p>
+                    <a class="text-[#2F89FC] text-lg" href="http://127.0.0.1:5501/index.html">View my Project</a>
+                </div>
+        </div>
+            <div class="bg-cover bg-center bg-no-repeat h-80 block w-full md:h-full size-[300px] mr-8 ml-8" style="background-image: url('/author-1.jpg');">
+            </div>
+                
+        </section>
+       
+        
+    
+
+
+
+           
+        
+    </main>
+</body>
+</html>
